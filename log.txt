@@ -1,0 +1,39 @@
+LOG FILE  
+
+-------------------------------------------------------
+Python : 3.6.8 
+
+Packages used : 
+numpy		:1.15.4
+pandas		:0.23.4
+allel		:1.2.0
+matplotlib	:3.0.2
+pickle		:4.0
+vcf			:0.6.8
+
+-------------------------------------------------------
+Random Seed used : 0
+Approximate Runtime : 35 mins 
+
+-------------------------------------------------------
+2019-03-20 02:25:27 : [A] Program Started 
+2019-03-20 02:26:25 : [B] Reading files completed
+2019-03-20 02:26:38 : [C] Data Exploration completed
+2019-03-20 03:08:21 : [D] Saved 'coordinates.csv'
+2019-03-20 03:08:21 : [D] Dimensionality Reduction Completed
+2019-03-20 03:08:55 : [E] Saved 'allele_data_300k.txt'
+2019-03-20 03:08:55 : [E] Saved 'axes_300k.txt'
+2019-03-20 03:08:55 : [E] Backup Completed
+2019-03-20 03:09:20 : [F] Saved 'plot_300k_blank.png'
+2019-03-20 03:09:24 : [F] Saved 'plot_300k_line.png'
+2019-03-20 03:09:41 : [F] Saved 'clusters_300k.png'
+2019-03-20 03:11:07 : [F] Saved 'superpop_EAS_300k.png'
+2019-03-20 03:11:10 : [F] Saved 'superpop_SAS_300k.png'
+2019-03-20 03:11:13 : [F] Saved 'superpop_AFR_300k.png'
+2019-03-20 03:11:15 : [F] Saved 'superpop_EUR_300k.png'
+2019-03-20 03:11:18 : [F] Saved 'superpop_AMR_300k.png'
+2019-03-20 03:11:18 : [F] Saved all super-population plots
+2019-03-20 03:12:00 : [F] Saved miscellaneous plots
+2019-03-20 03:12:02 : [F] Plotting Completed
+2019-03-20 03:12:02 : [F] Exiting Program
+-------------------------------------------------------
