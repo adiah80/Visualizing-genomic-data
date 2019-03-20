@@ -13,7 +13,7 @@
 * To completely rerun the script, the .vcf.gz file needs to be extracted into a .vcf file, whose path must then be given as an argument to read_save_data() function in the '[B] Reading Files' section.
 * To just reproduce the graphs, move directly to section '[E] Backing up' and run the second cell to load the coordinates.
 * Note : allele_data_300k.zip must be extracted into the main folder before running the script.
-* The complete script takes about an hour to run (for the first time). 
+* The script takes about an hour to run (for the first time). 
 * Subsequent runs take lesser time (about 35 minutes) as the data has been stored as a .npz file.
 * It is possible to load the saved coordinates and run the script from section '[E] Backing up', in which case the results will be immediate as all the preprocessing has already been done.
 
@@ -22,7 +22,7 @@
 * Plot showing all populations.
 ![](./plot_300K_line.png)
 
-* Plot showing those populations that form clusters
+* Plot showing those populations that form clusters.
 ![](./clusters_300k.png)
 
 ## Super Populations Plots
