@@ -7,6 +7,7 @@
 * 'allele_data_300k.zip' and 'axes_300k.txt' can be used to load pre-processed data to analyse the results.
 * 'plot_300K_blank.png' and 'plot_300K_line.png' contain the output plots.
 * '300k_with_seed' folder contains the miscellaneous plots.
+* All images are in high resolution (300 dpi).
 
 **_Reproducing the results :_**
 
